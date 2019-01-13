@@ -22,11 +22,13 @@ permalink: /application/
 
 (Student discount requires valid student I.D.)
 
+The price includes full course attendance, but does not include the Teach Bitcoin protocol [certification](/certification) upon mastery of all coursework.
+
 ---
 
 ### Upcoming Start Dates
 * TBA: First Course start date will be announced soon.
-* In the meantime, register for a [free introductory live session](/).
+* In the meantime, register for a [free introductory live session](https://airtable.com/shrr5HqclCA8x9zCz).
 
 ---
 

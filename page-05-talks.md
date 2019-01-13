@@ -4,26 +4,24 @@ title: Past Talks
 permalink: /talks/
 ---
 
-Links to recent presentations.
-
 ---
 
-**Bitcoin Meetup London (Upcoming - 06/02/2018)**
+**[London Bitcoin Devs Meetup](https://www.meetup.com/London-Bitcoin-Devs/events/257966055/) (Upcoming - 06/02/2018)**
 
 ---
 
 **[Sillicon Valley Bitcoin Meetup](https://www.meetup.com/Silicon-Valley-Bitcoin-Users/events/256840580/) (19/12/2018)**
   * Libbitcoin Toolkit Overview ([Slides](/presentations/sunnyvale_libbitcoin.html))
   * A performant Bitcoin database design ([Slides](/presentations/sunnyvale_libbitcoin.html#/18))
-    * Memory-mapped files
+    * Memory-mapped file I/O
     * Append-only, No-deletion design
     * Transaction/Block/Address indexing
-    * Fault tolerance
+    * Performance vs. Fault tolerance
 
 ---
 
 **[Bitcoinedge Dev++/BC2 Tokyo](https://keio-devplusplus-2018.bitcoinedge.org/#speakers) (4-5/10/2018)**
-  * Hierarchical Deterministic wallets ([Slides](presentations/bitcoinedge_keio_hd.html))
+  * Hierarchical Deterministic wallets ([Slides](/presentations/bitcoinedge_keio_hd.html))
     * BIP 32/43/44
     * Wallet Recovery
     * Parent Key Exposure Demo
