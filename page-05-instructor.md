@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructor
-permalink: /Instructor/
+permalink: /instructor/
 ---
 
 * **Email:** james [at] teachbitcoin [dot] io

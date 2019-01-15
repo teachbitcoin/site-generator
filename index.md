@@ -7,7 +7,7 @@ Studying the Bitcoin protocol design beyond the basics is hard for even the most
 Teach Bitcoin protocol training is an in-depth program that was inspired from the study of several hundred thousand lines of implementation code. It  teaches you both the high and low-level designs of the **Bitcoin Protocol**, so you can greatly accelerate your journey to becoming a Bitcoin implementation developer or protocol researcher.
 
 <div class="videoWrapper">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/tqPoMTNENFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/tqPoMTNENFw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br>

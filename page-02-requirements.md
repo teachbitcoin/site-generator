@@ -22,4 +22,4 @@ To successfully complete the course, you should have:
 * Basic **bash shell tools and scripting** experience.
 * Basic **object-oriented programming** experience.
 
-If you are unsure whether this is the right course for you, feel free to register for the free [introductory]() session, or submit an [application]() for the full course.
+If you are unsure whether this is the right course for you, feel free to register for the free [introductory](https://airtable.com/shrr5HqclCA8x9zCz) session, or submit an [application]() for the full course.
