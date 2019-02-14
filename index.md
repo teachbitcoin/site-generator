@@ -13,17 +13,14 @@ Teach Bitcoin protocol training is an in-depth program that was inspired from th
 <br>
 
 ## Free Introductory Sessions
-The free 45 minute live introductory sessions are a great way for you to try out the TeachBitcoin protocol training.
+The free 45 minute live introductory sessions are a great way for you to try out the TeachBitcoin protocol training, and to better understand if it is right for you.
 
-| Introduction to: | Date | Time |
-|:-|:-|:-|
-| Finite Fields & Elliptic Curves | Mon, 28/01/2019 | 18:00 |
-| Hierarchical Deterministic Wallets | Mon, 04/02/2019 | 04:00 |
+| Introduction to: |
+|:-|
+| Finite Fields & Elliptic Curves |
+| Hierarchical Deterministic Wallets |
 
-All times shown in GMT.
-
-[**Register here**](https://airtable.com/shrr5HqclCA8x9zCz) for a live introductory session.
-
+[**Register here**](https://airtable.com/shrr5HqclCA8x9zCz) for a recorded introductory session.
 
 <br>
 
@@ -35,6 +32,6 @@ Teach Bitcoin classes are **live video courses** in virtual classrooms with inst
 
 | Begin Date | Description |
 |:-|:-|
-| TBD | (However, free introductory sessions are already available) |
+| Fri 22/02/2019| First Full Session |
 
-[**Apply here**]() for the next most convenient course start date.
+[**Apply here**](https://airtable.com/shrCh9KVki7QE8aK2) for the next course start date.
